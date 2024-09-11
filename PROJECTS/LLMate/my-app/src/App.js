@@ -1,5 +1,4 @@
 
-// import './App.css';
 import '../src/App.css';
 import "../node_modules/bootstrap/dist/css/bootstrap.css";
 import Home from './components/pages/Home';
